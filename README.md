@@ -20,6 +20,12 @@
 
 (pending write-up)
 
+## Password Cracking Tools
+
+### John the Ripper
+
+(pending write-up)
+
 ## Miscellaneous Command Line Tools
 
 ### Vim
